@@ -1,0 +1,18 @@
+﻿type_ownership;cod_building;Nome Edificio;Descrizione Edificio;Indirizzo;id_building;type_property;city
+EDI;IT042017000002;Civile abitazione loc. Castelletta;Fabbricato di civile abitazione ;loc. Castelletta -60044 Fabriano (AN);2233454;Proprietà;042017
+EDI;IT042017000008;Sede Associazione Appennino Valleremita;Fabbricato in loc. Valleremita Ricevuto in gestione dalla Regione Marche ex L.R. 35/97 e succ. mod. ed int. – ceduto in comodato uso alla Associazione Appennino Valleremita di Fabriano;Loc. Valleremita Fabriano;2233460;Proprietà;042017
+TER;IT042017000003;Terreno in loc. Campo dell'Olmo;Terreno in loc. Campo dell’Olmo;Loc. Campo dell'Olmo 60044 Fabriano (AN);2233455;Proprietà;042017
+TER;IT042017000007;Terreno Valleremita;Terreno demaniale loc. Valleremita Ricevuto in gestione dalla Regione Marche ex L.R. 35/97 e succ. mod. ed int. – ceduto in comodato uso alla Associazione Appennino Valleremita di Fabriano;Loc. Valleremita Fabriano;2233459;Proprietà;042017
+EDI;IT042017000001;Sede Unione Montana Esino Frasassi;Sede della Unione Montana Fabriano;VIA Dante 268 60044 Fabriano (AN);2233453;Proprietà;042017
+EDI;IT042017000004;Ufficio Società Agricola Forestale di gestione dei beni agro silvo pastorali Esino Frasassi;Locali ad uso uffici siti al P.T. dell’immobile della UM Ceduto di comodato d’uso alla Società Agricola Forestale di gestione dei beni agro silvo pastorali Esino Frasassi;VIA Dante 268 60044 Fabriano (AN);2233456;Proprietà;042017
+EDI;IT042017000005;Centro Audiovisivo Distrettuale (CAD);Locale ad uso ufficio sito al P.T. dell’immobile della UM Ceduto in comodato d’uso Centro Audiovisivo Distrettuale (CAD) ;VIA Dante 268 60044 Fabriano (AN);2233457;Proprietà;042017
+EDI;IT042017000006;Casa del Parco di Castelletta;Casa del Parco e centro servizi di Castelletta - In comodato d’uso – proprietà comune di Fabriano ;loc. Castelletta -60044 Fabriano (AN);2233458;Proprietà;042017
+EDI;IT042044000001;Strutture Agrosilvopastorali;Rimessa attrezzi e Fienile sito a Pantana di Sassoferrato ;Loc. Pantana Sassoferrato;2233461;Proprietà;042044
+EDI;IT042044000002;Strutture Agrosilvopastorali;Serbatoio acqua per uso agricolo sito a Pantana di Sassoferrato;Loc. Pantana Sassoferrato;2233462;Proprietà;042044
+EDI;IT042047000003;Osservatorio ambientale del  Parco;locali osservatorio ambientale del Parco a Serra San Quirico – in comodato d'uso, proprieta del comune di Arcevia;Via Marcellini Serra San Quirico;2233465;Proprietà;042047
+EDI;IT042047000001;Centro accoglienza Parco Gola della Rossa e di Frasassi;Fabbricato ex convento S.Lucia centro accoglienza e informazioni del Parco Gola della Rossa e Frasassi ;Via Marcellini Serra San Quirico;2233463;Proprietà;042047
+EDI;IT042047000002;Sede Operativa Parco Gola della Rossa e di Frasassi;Sede operativa del Parco Naturale Regionale Gola della Rossa e di Frasassi in comodato d'uso, proprieta del comune di Serra San Quirico;Serra San Quirico;2233464;Proprietà;042047
+EDI;IT042003000002;Casa del Parco di Arcevia;Casa del Parco di Arcevia ex chiesa San Giovanni Battista, in comodato d'uso, proprieta del comune di  Serra San Quirico;Arcevia, ;2233451;Proprietà;042003
+EDI;IT042016000001;Porzione Fabbricato Palazzo Leoni a Cupramontana;Porzione di fabbricato denominato “Palazzo Leoni”;Corso Leopardi 58- 62, 60034 Cupramontana (AN) ;2233452;Proprietà;042016
+EDI;IT042049000001;Porzione Fabbricato;Porzione fabbricato costituita da tre vani;Via Lancellotti, Staffolo (AN);2233466;Proprietà;042049
+TER;IT042003000001;Terreno Agricolo;Terreno agricolo;Loc. Magnadorsa Arcevia;2233450;Proprietà;042003

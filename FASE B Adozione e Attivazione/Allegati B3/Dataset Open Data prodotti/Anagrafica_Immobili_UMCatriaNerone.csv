@@ -1,0 +1,51 @@
+﻿type_ownership;cod_building;Nome Edificio;Descrizione Edificio;Indirizzo;id_building;city;type_property
+EDI;IT041001000001;Struttura La Macina Terre Alte sede Coop Sociale;Struttura La Macina Terre Alte sede Coop Sociale;Via Pianacce 1   61041 Acqualagna (PU);2233694;041001;Proprietà
+EDI;IT041002000001;Edificio  La Chiusura Apecchio;Edificio  La Chiusura Apecchio;APECCHIO (PS) VOCABOLO CHIUSURA, SN Piano S1 T  1;2233662;041002;Proprietà
+TER;IT041002000002;Area Boschiva ;Area Boschiva ;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233663;041002;Proprietà
+TER;IT041002000003;Area Boschiva ;Area Boschiva ;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233664;041002;Proprietà
+TER;IT041002000004;Area Boschiva ;Area Boschiva ;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233665;041002;Proprietà
+TER;IT041002000005;Pascolo;Pascolo;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233666;041002;Proprietà
+TER;IT041002000006;Pascolo;Pascolo;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233667;041002;Proprietà
+TER;IT041002000007;Area Boschiva ;Area Boschiva ;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233668;041002;Proprietà
+TER;IT041002000008;Vecchio seminativo arborato;Vecchio seminativo arborato;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233669;041002;Proprietà
+TER;IT041002000009;bosco;bosco;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233670;041002;Proprietà
+TER;IT041002000010;bosco;bosco;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233671;041002;Proprietà
+TER;IT041002000011;Pascolo;Pascolo;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233672;041002;Proprietà
+TER;IT041002000012;Pascolo;Pascolo;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233673;041002;Proprietà
+TER;IT041002000013;Pascolo cespugliato;Pascolo cespugliato;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233674;041002;Proprietà
+TER;IT041002000014;bosco;bosco;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233675;041002;Proprietà
+TER;IT041002000015;Pascolo cespugliato;Pascolo cespugliato;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233676;041002;Proprietà
+TER;IT041002000016;bosco;bosco;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233677;041002;Proprietà
+TER;IT041002000017;bosco;bosco;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233678;041002;Proprietà
+TER;IT041002000018;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233679;041002;Proprietà
+TER;IT041002000019;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233680;041002;Proprietà
+TER;IT041002000020;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233681;041002;Proprietà
+TER;IT041002000021;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233682;041002;Proprietà
+TER;IT041002000022;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233683;041002;Proprietà
+TER;IT041002000023;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233684;041002;Proprietà
+TER;IT041002000024;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233685;041002;Proprietà
+TER;IT041002000025;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233686;041002;Proprietà
+TER;IT041002000026;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233687;041002;Proprietà
+TER;IT041002000027;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233688;041002;Proprietà
+TER;IT041002000028;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233689;041002;Proprietà
+TER;IT041002000029;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233690;041002;Proprietà
+TER;IT041002000030;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233691;041002;Proprietà
+TER;IT041002000031;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233692;041002;Proprietà
+TER;IT041002000032;Area Boschiva e montana;Area Boschiva e montana;Vocabolo Pian di Landuccio  Chiusura Apecchio (PS);2233693;041002;Proprietà
+EDI;IT041007000001;Ufficio magazzino;Ufficio magazzino;CAGLI (PS) PIAZZA SAN FRANCESCO, Piano S1;2233648;041007;Proprietà
+EDI;IT041007000002;Ufficio magazzino;Ufficio magazzino;CAGLI (PS) VIA DON GIOVANNI MINZONI, SN Piano S1;2233649;041007;Proprietà
+EDI;IT041007000003;Ufficio magazzino;Ufficio magazzino;CAGLI (PS) VIA GAETANO LAPIS, 7 Piano S1;2233650;041007;Proprietà
+EDI;IT041007000007;Unione Montana ufficio servizio sociale Cagli;"Unione Montana ufficio servizio sociale Cagli
+
+SEDE CENTRO SOCIO EDUCATIVO DIURNO PER PORTATORI DI HANDICAP ";CAGLI (PS) VIA RAFFAELLO SANZIO, 34 Piano T;2233654;041007;Proprietà
+EDI;IT041007000008;Ufficio;Ufficio;CAGLI (PS) VIA IMBRIANO ALESSANDRI, SNC Piano T;2233655;041007;Proprietà
+EDI;IT041007000009;Ufficio;Ufficio;CAGLI (PS) VIA IMBRIANO ALESSANDRI, 15 Piano T;2233656;041007;Proprietà
+EDI;IT041007000010;Ufficio;Ufficio;CAGLI (PS) VIA GIACOMO LEOPARDI, 27 Piano T 1  2;2233657;041007;Proprietà
+TER;IT041007000011;Area protezione Civile Cagli;Area protezione Civile Cagli;CAGLI (PS);2233658;041007;Proprietà
+TER;IT041007000012;Area protezione Civile Cagli;Area protezione Civile Cagli;CAGLI (PS);2233659;041007;Proprietà
+TER;IT041007000013;Area protezione Civile Cagli;Area protezione Civile Cagli;CAGLI (PS);2233660;041007;Proprietà
+TER;IT041007000014;Area protezione Civile Cagli;Area protezione Civile Cagli;CAGLI (PS);2233661;041007;Proprietà
+EDI;IT041007000004;Sede Unione Montana;Sede Unione Montana;CAGLI (PS) VIA GAETANO LAPIS, 7 Piano T;2233651;041007;Proprietà
+EDI;IT041007000005;Sede Unione Montana;Sede Unione Montana;CAGLI (PS) VIA GAETANO LAPIS, 7 Piano 1;2233652;041007;Proprietà
+EDI;IT041007000006;Sede Unione Montana;Sede Unione Montana;CAGLI (PS) VIA GAETANO LAPIS, 7 Piano 2 3;2233653;041007;Proprietà
+EDI;IT041049000001;Centro di Educazione ambientale Piobbico;Centro di Educazione ambientale Piobbico;via Giacomo Matteotti, 1  Piobbico (PU);2233695;041049;Proprietà
